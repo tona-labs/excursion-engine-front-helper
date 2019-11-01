@@ -1,5 +1,5 @@
 # Front Helper
 
-Front Helper for Excursion Engine websites.
+Front Helper for MyShoreTours websites.
 
-Follow us on excursionengine.com
+Follow us on myshoretours.net
